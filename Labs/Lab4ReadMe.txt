@@ -1,0 +1,1 @@
+On this laboratories i was introduced to three different UML diagrams. First picture is example of sequence diagram for ATM system. Second one is the state diagram for Medical Clinic and the last one is activity diagram prepared for car insurance company.

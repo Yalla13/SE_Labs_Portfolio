@@ -1,0 +1,1 @@
+A Passenger queries schedules and selects a seat , which triggers a 10-minute lock in the central database. Successful Payment Gateway processing updates the seat to Occupied and generates a QR Ticket. If no payment is received within the timeframe, the system executes an auto-release to make the seat available again.

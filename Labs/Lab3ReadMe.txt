@@ -1,0 +1,1 @@
+During this laboratories i got to know the UML Class diagrams. On the first image i have Class diagram for ATM system. The second image shows class diagram for Medical Clinic and the last picture is a class diagram for Car Insurance Company.

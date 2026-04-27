@@ -1,0 +1,1 @@
+During this laboratories i learned how to create UseCase diagrams. First image is UseCase diagram crated for ATM System. Second image shows UseCase diagram prepared for Medical Clinic. The last, third one, UseCase diagram is created for Car Insurance company.

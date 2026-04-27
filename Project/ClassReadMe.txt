@@ -1,0 +1,1 @@
+The User and inherited Passenger classes manage identity and booking history. Trains are modeled as hierarchical structures containing Wagons and Seats that support specific lock and release operations. Booking instances link users to Tickets and utilize a PaymentProcessor interface for transaction logic

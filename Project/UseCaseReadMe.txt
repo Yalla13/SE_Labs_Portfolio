@@ -1,0 +1,1 @@
+Passengers perform searches, payments, and profile management , while Train Staff are responsible for ticket validation. Seat locking is included during selection , and ticket generation is included in the payment process. The System Timer monitors the 10-minute window as the Payment Provider triggers necessary refunds.
